@@ -1,6 +1,6 @@
 import React from 'react';
 import banner from '../assets/image/Vishal Rustagi.png'
-import profile from '../assets/image/picture.jpg'
+import profile from '../assets/image/vishal rustagi.jpeg'
 import Navbar from './header';
 function Banner(){
     return(

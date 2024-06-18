@@ -11,19 +11,19 @@ function Navbar(){
           <a href="#" className="block py-2 px-3  rounded md:bg-transparent md:text-blue-400 md:p-0 dark:text-white md:dark:text-blue-500" aria-current="page">Home</a>
         </li>
         <li>
-          <a href="#about" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About</a>
+          <a href="#about" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 text-red-400 md:dark:hover:text-blue-500  dark:hover:text-white md:dark:hover:bg-transparent">About</a>
         </li>
         <li>
-          <a href="#service" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
+          <a href="#service" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 text-red-400 md:dark:hover:text-blue-500 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
         </li>
         <li>
-          <a href="#project" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Projects</a>
+          <a href="#project" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 text-red-400 md:dark:hover:text-blue-500 dark:hover:text-white md:dark:hover:bg-transparent">Projects</a>
         </li>
         <li>
-          <a href="#client" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Our Clients</a>
+          <a href="#client" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 text-red-400 md:dark:hover:text-blue-500 dark:hover:text-white md:dark:hover:bg-transparent">Our Clients</a>
         </li>
         <li>
-          <a href="/sample" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 dark:text-red-400 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">UI/UX</a>
+          <a href="/sample" className="block py-2 px-3  rounded  md:border-0 md:hover:text-blue-400 md:p-0 text-red-400 md:dark:hover:text-blue-500  dark:hover:text-white md:dark:hover:bg-transparent">UI/UX</a>
         </li>
       </ul>
     </div>

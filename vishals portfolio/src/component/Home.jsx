@@ -3,6 +3,7 @@ import Banner from './Banner';
 import Service from './service';
 import Project from './projects';
 import Client from './ourClient';
+import Comments from './Comments';
 function Home() {
   return (
     <div>
@@ -10,6 +11,7 @@ function Home() {
       <Service/>
       <Project/>
       <Client/>
+      <Comments/>
     </div>
   )
 }
