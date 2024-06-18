@@ -18,7 +18,7 @@ import img15 from '../assets/image/image-15.png'
  function ourClient(){
     return (
         <>
-            <div className='' id='client'>
+            <div className=' bg-blue-50' id='client'>
                 <div className='p-5 mx-10'>
                     <div>
                         <h1 className='py-5 pb-5 text-[#3b6893] text-5xl text-center font-bold'>Our Clients</h1>

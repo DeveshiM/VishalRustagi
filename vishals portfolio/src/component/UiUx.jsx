@@ -32,7 +32,7 @@ function Uiux(){
                     <div className='w-1/2 border-2 text-center shadow-lg shadow-[#3b6893]  rounded-lg'>
                     <a href='https://ozonecronulla.com.au/' >
                         <img src={sample3} alt="" className='w-full h-auto' />
-                        <h1 className='text-2xl py-2'>Coastal Living Redefined</h1>
+                        <h1 className='text-2xl py-2'>COASTAL LIVING REDEFINED</h1>
                         
                     </a>
                     </div>
